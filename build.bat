@@ -1,1 +1,1 @@
-powershell.exe -noexit -command "& {cd C:\Users\vung\Desktop\BudgetManagerBuilderCommands; Set-ExecutionPolicy Unrestricted; ./dnu.ps1;}"
+powershell.exe -noexit -command "& {cd [path]; Set-ExecutionPolicy Unrestricted; ./dnu.ps1;}"
